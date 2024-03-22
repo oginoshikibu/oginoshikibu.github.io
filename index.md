@@ -48,8 +48,25 @@ title: "oginoshikibu Portfolio"
 
 ## 各経験の詳細
 
+### 学問（独学、輪読）
 
 
+### 競技プログラミング
+
+
+### Hult Prize
+
+
+### Future Architect社でのインターン
+
+
+### TripleW Japan社でのインターン
+
+
+### 研究
+
+
+### 個人開発「wikipedia golf」
 
 
 
@@ -81,14 +98,13 @@ title: "oginoshikibu Portfolio"
 - WSL
 
 
-
-
-
 # 資格
 
 
 
 # Personality 
+
+
 
 
 # 趣味
