@@ -18,7 +18,6 @@ title: Home
 中高では化学が「理論があるようでない学問」と感じ、一番嫌いだったが[とある本](https://www.sanseido-publ.co.jp/np/detail/26093/)に出会い、大学に進めば理論的な部分も出来るのではと期待して進学。
 残念ながら大学入学後も嫌いな化学のままであったため、それを求めて外部院進し現在に至る。
 
-
 ## Personality 
 
 MBTI: INTP（[論理学者 (INTP型の性格) | 16Personalities](https://www.16personalities.com/ja/intp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)）
@@ -52,6 +51,7 @@ key words
   - クミン
   - 生パクチー
   - 豆鼓
+- <span style="color: grey; ">小3のとき親パワーでTVチャンピオン準優勝したのがひそかな自慢</span>
 
 読書
 - 色んな分野の専門書読みがち
@@ -74,3 +74,5 @@ key words
 - 作曲に挑戦したいと思って早数年
 
 
+ブログ：[つれづれなるおぎの](https://oginoshikibu.hatenadiary.com/)
+全然更新してない……(´・ω・｀)
