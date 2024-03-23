@@ -30,7 +30,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 header_pages:
-  - index.md
+  - portfolio.md
+  - about.md
+  - contact.md
+
 
 # Build settings
 theme: minima
