@@ -1,22 +1,8 @@
 ---
-layout: home
-title: "oginoshikibu Portfolio"
+layout: page
+title: "Portfolio"
+permalink: "/portfolio/"
 ---
-
-![image]()
-
-# 自己紹介
-- 東京大学大学院総合文化研究科広域科学専攻M1(2023年度)
-- 専門分野：計算化学
-  - 研究テーマ：「溶液中におけるイリジウム錯体の電子状態計算」
-- 趣味：[競技プログラミング](https://atcoder.jp/users/oginoshikibu)、料理、色々な学問に触れる
-
-# 学歴
-
-平塚中等教育学校 → 東京理科大学理学部第一部化学科 → 東京大学大学院総合文化研究科広域科学専攻相関基礎科学系
-
-中高では化学が「理論があるようでない学問」と感じ、一番嫌いでしたが、[とある本](https://www.sanseido-publ.co.jp/np/detail/26093/)に出会い、大学に進めば理論的な部分も出来るのではと期待して進学。残念ながら大学入学後も嫌いな化学のままであったため、それを求めて外部院進し現在に至る。
-
 
 ## 経験要約
 
@@ -51,6 +37,7 @@ title: "oginoshikibu Portfolio"
 ### 学問（独学、輪読）
 
 
+
 ### 競技プログラミング
 
 
@@ -72,7 +59,7 @@ title: "oginoshikibu Portfolio"
 
 ## 触ったことがあるもの一例
 
-### 言語 & フレームワーク & ライブラリ
+### 言語 / フレームワーク / ライブラリ
 
 - Python
   - pandas, matplotlib, numpy, scipy, scikit-learn, keras, selenium, beautifulsoup, pyPDF
@@ -88,29 +75,21 @@ title: "oginoshikibu Portfolio"
 - Shell Script
 
 
-### インフラ & ツール
+### インフラ / ツール
 
 - AWS
   - EC2, RDS, ALB, ACM
 - Github Actions
 - Swagger
 - git, github, gitlab
-- WSL
+- Figma
+- Windows, WSL2, MacOS, Ubuntu, 
 
 
 # 資格
 
 
 
-# Personality 
 
 
-
-
-# 趣味
-
-
-
-
-# Contact
 
