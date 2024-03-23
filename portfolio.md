@@ -14,7 +14,7 @@ permalink: "/portfolio/"
 - 2021年10月（学部3年）[TripleW Japan](https://www-biz.co/)社にてインターン開始
   - 新規ヘルスケアデバイスの検証・データ分析・アルゴリズム開発（Python: pandas, matplotlib）
 - 2021年11月（学部3年）後輩2人とICPC国内予選に出場し、運よく理科大内で1位を獲得したが予選通過ならず
-- 2023年03月（学部4年）TripleW Japan社インターン終了
+- 2023年03月（学部4年）TripleW Japan社インターン終了（一年半）
 - 2023年04月（修士1年）後輩に誘われ理科大応用数学研究部に入部
 - 2023年09月（修士1年）[Future Architect](https://www.future.co.jp/architect/)社にて1カ月のインターンを実施
   - 既存システムへChat-GPTを活用するPoC（Java: SpringBoot）
@@ -26,7 +26,7 @@ permalink: "/portfolio/"
 
 - 2019年04月（学部1年）塾講師アルバイトを半年ほど実施
 - 2021年05月（学部3年）友人数名と輪読会を開始
-  - 読んだ本：[量子論の基礎: その本質のやさしい理解のために](https://www.saiensu.co.jp/search/?isbn=978-4-7819-1062-8&y=2004#detail)、[熱力学の基礎](https://www.utp.or.jp/book/b555767.html)、[統計力学](https://www.gakushuin.ac.jp/~881791/statbook/)。[計算理論の基礎](https://www.kyoritsu-pub.co.jp/book/b10030021.html)、[私的所有論](https://seikatsushoin.com/books/%E7%A7%81%E7%9A%84%E6%89%80%E6%9C%89%E8%AB%96%EF%BC%BB%E7%AC%AC2%E7%89%88%EF%BC%BD/)
+  - 読んだ本：[量子論の基礎: その本質のやさしい理解のために](https://www.saiensu.co.jp/search/?isbn=978-4-7819-1062-8&y=2004#detail)、[熱力学の基礎](https://www.utp.or.jp/book/b555767.html)、[統計力学](https://www.gakushuin.ac.jp/~881791/statbook/)、[計算理論の基礎](https://www.kyoritsu-pub.co.jp/book/b10030021.html)、[私的所有論](https://seikatsushoin.com/books/%E7%A7%81%E7%9A%84%E6%89%80%E6%9C%89%E8%AB%96%EF%BC%BB%E7%AC%AC2%E7%89%88%EF%BC%BD/)
 - 2022年03月（学部3年）Hult Prize予選にて優勝、国際地域予選（Taipei）に出場
   - [【開催報告】Hult Prize & Impact Fest TUS On Campus 2022 を開催(2/23)｜東京理科大学](https://www.tus.ac.jp/today/archive/20220303_8741.html)
 - 2023年10月（修士1年）溶液化学シンポジウムにてポスター発表
