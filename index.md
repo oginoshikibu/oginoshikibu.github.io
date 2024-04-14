@@ -11,6 +11,7 @@ title: Home
   - 専門分野：計算化学
 - クローン病（現在は寛解）
 - うねうね
+(Portfolioは[こちら](/portfolio))
 
 ## 学歴
 
