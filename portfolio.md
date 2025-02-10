@@ -57,7 +57,6 @@ permalink: "/portfolio/"
   - 再現性が取れる演習をすることを意識
 - 努力の甲斐あって、8カ月で水色に達成
 
-
 ### Hult Prize
 
 - ビジネスとして価値を生み出すイメージが湧かなかったため、出場
@@ -155,8 +154,9 @@ keywords: TD-DFT, RISM-SCF-cSED, GAMESS, spin-orbit coupling, Ir complex, photor
 
 - Python
   - pandas, matplotlib, numpy, scipy, scikit-learn, keras, selenium, beautifulsoup, pyPDF
-- JavaScript
-  - React, InertiaJS
+- JavaScript / TypeScript
+  - React, InertiaJS, discordjs, prisma
+  - bun
 - Java
   - SpringBoot
 - PHP
@@ -164,22 +164,27 @@ keywords: TD-DFT, RISM-SCF-cSED, GAMESS, spin-orbit coupling, Ir complex, photor
 - HTML/CSS
   - tailwind
 - Ruby on Rails
+- Go
+  - gin, gorm, echo
 - Shell Script
 
 ### インフラ / ツール
 
 - AWS
-  - EC2, RDS, ALB, ACM
+  - EC2, RDS, ALB, ACM, lambda
 - Github Actions
+- docker, docker-compose, devcontainer
 - Swagger
 - git, github, gitlab
+- github copilot
 - Figma
-- Windows, WSL2, MacOS, Ubuntu, 
+- Windows, WSL2, MacOS, Ubuntu
 
 
 # 資格
 
-- 2021年4月 TOEIC L&R 810点
-- 2022年4月 TOEFL iBT 69点
+- 2021年04月 TOEIC L&R 810点
+- 2022年04月 TOEFL iBT 69点
+- 2024年12月 応用情報技術者試験合格
 
 普通自動車免許（AT限定）
